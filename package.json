@@ -1,0 +1,5 @@
+{
+  "name": "tw5-type-declarations",
+  "types": "src/index.d.ts",
+  "main": "src/index.ts"
+}
